@@ -1,0 +1,16 @@
+{
+  "name": "vue-cli-plugin-best-template",
+  "version": "0.0.1",
+  "description": "the best vue cli template",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leehope/vue-cli-plugin-best-template.git"
+  },
+  "author": "leehope",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/leehope/vue-cli-plugin-best-template/issues"
+  },
+  "homepage": "https://github.com/leehope/vue-cli-plugin-best-template#readme"
+}
